@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ground-mat-ru.pages.dev/sitemap.xml
